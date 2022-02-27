@@ -24,12 +24,12 @@ This is the main repository for all of the projects in the course, with differen
 
 |  #  | Project     | Live Demo      |
 | :-: | ----------- | -------------- |
-| 01  | [Challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-01) |  [Live Demo](https://jeraldinnemg.github.iochallenge-01)  |
-| 02  | [Challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-02) | [Live Demo](https://jeraldinnemg.github.io/challenge-02) |
-| 03  | [Challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-03) | [Live Demo](https://jeraldinnemg.github.io/challenge-03) |
-| 04  | [Flexbox challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-01) | [Live Demo](https://jeraldinnemg.github.io/flexbox-challenge-01) |
-| 05  | [Flexbox challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-02) | [Live Demo](https://jeraldinnemg.github.io/flexbox-challenge-02) |
-| 06  | [Navigation challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/nav-challenge-03)  | [Live Demo](https://jeraldinnemg.github.io/nav-challenge-03)     |
-| 07  | [Flexbox challenge 04](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-04) | [Live Demo](https://jeraldinnemg.github.io/flexbox-challenge-04) |
-| 08  | [Mediqueries](ttps://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://jeraldinnemg.github.io/mediqueries)                              |                                 
+| 01  | [Challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-01) |  [Live Demo](https://responsive-layout-challenge01.netlify.app/)  |
+| 02  | [Challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-02) | [Live Demo](https://responsive-layout-challenge02.netlify.app/) |
+| 03  | [Challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-03) | [Live Demo](https://responsive-layout-challenge03.netlify.app/) |
+| 04  | [Flexbox challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-01) | [Live Demo](https://responsive-layout-flexbox-challenge01.netlify.app/) |
+| 05  | [Flexbox challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-02) | [Live Demo](https://responsive-layout-flexbox-challenge02.netlify.app/) |
+| 06  | [Navigation challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/nav-challenge-03)  | [Live Demo](https://responsive-layout-nav-challenge03.netlify.app/)     |
+| 07  | [Flexbox challenge 04](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-04) | [Live Demo](https://responsive-layout-flexbox-challenge04.netlify.app/) |
+| 08  | [Mediaqueries](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://responsive-layout-mediaqueries.netlify.app/)                              |                                 
 
