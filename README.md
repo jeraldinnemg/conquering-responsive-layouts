@@ -6,7 +6,7 @@ This is the main repository for all of the projects in the course, with differen
 -   [Youtube Channel](https://www.youtube.com/kepowob)
 
 
-## Some useful lesson I've learned
+## Some useful lessons I've learned
 
 1. Most of the elements are responsive by default. :heavy_check_mark:
 2. When we don´t assign a width to anything layout is responsive. Try it!.:bulb:
@@ -15,7 +15,7 @@ This is the main repository for all of the projects in the course, with differen
 5. Use rem for specify css properties like font-size instead use em for specify css properties like margin or padding.:bulb:
 6. Relative units are useful for responsive layouts.:heavy_check_mark:
 7. Setting vw in font-size is useful in tittles.:bulb:
-8. Flexbox basics: What happens when you make display flex, the columns are going to try and shrink to their minimun possible size.:dart:
+8. Flexbox basics: What happens when you make display flex, the columns are going to try and shrink to their minimun possible size:dart:
 9. Reduce as much as possible the amount of HTML needed.:heavy_check_mark:
 10. Ensure the image is responsive, one trick is to declare image's css property "max-width:100px". :bulb:
 11. An option to gao could be margin-right or margin-left.:dart:
