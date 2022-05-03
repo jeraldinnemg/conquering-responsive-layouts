@@ -21,6 +21,7 @@ This is the main repository for all of the projects in the course, with differen
 11. An option to gao could be margin-right or margin-left.:dart:
 12. By default flex shrink is on.:heavy_check_mark:
 13. Centering things the easy way "margin: 0 auto".:bulb:
+14. Keep trying and learning:heavy_check_mark:
 
 |  #  | Project     | Live Demo      |
 | :-: | ----------- | -------------- |
@@ -29,7 +30,13 @@ This is the main repository for all of the projects in the course, with differen
 | 03  | [Challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/challenge-03) | [Live Demo](https://responsive-layout-challenge03.netlify.app/) |
 | 04  | [Flexbox challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-01) | [Live Demo](https://responsive-layout-flexbox-challenge01.netlify.app/) |
 | 05  | [Flexbox challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-02) | [Live Demo](https://responsive-layout-flexbox-challenge02.netlify.app/) |
-| 06  | [Navigation challenge 03](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/nav-challenge-03)  | [Live Demo](https://responsive-layout-nav-challenge03.netlify.app/)     |
+| 06  | [Navigation challenge 01](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/nav-challenge-03)  | [Live Demo](https://responsive-layout-nav-challenge03.netlify.app/)     |
 | 07  | [Flexbox challenge 04](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-04) | [Live Demo](https://responsive-layout-flexbox-challenge04.netlify.app/) |
 | 08  | [Mediaqueries](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://responsive-layout-mediaqueries.netlify.app/)                              |                                 
+| 09  | [Navigation challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://responsive-layout-nav-challenge02.netlify.app/)                              | 
+| 10  | [Final challenge](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/final-challenge)  | [Live Demo](https://final-challenge-responsivedesing.netlify.app/)                              |     
+
+
+
+
 
