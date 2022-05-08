@@ -34,7 +34,7 @@ This is the main repository for all of the projects in the course, with differen
 | 07  | [Flexbox challenge 04](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/flexbox-challenge-04) | [Live Demo](https://responsive-layout-flexbox-challenge04.netlify.app/) |
 | 08  | [Mediaqueries](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://responsive-layout-mediaqueries.netlify.app/)                              |                                 
 | 09  | [Navigation challenge 02](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/mediaqueries)  | [Live Demo](https://responsive-layout-nav-challenge02.netlify.app/)                              | 
-| 10  | [Final challenge](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/final-challenge)  | [Live Demo](https://final-challenge-responsivedesing.netlify.app/)                              |     
+| 10  | [Final challenge](https://github.com/jeraldinnemg/conquering-responsive-layouts/tree/main/final-challenge)  | [Live Demo](https://finalchallenge-responsivedesing.netlify.app/)                              |     
 
 
 

@@ -218,7 +218,6 @@ header {
     .row {
         display: flex;
         justify-content: space-between;
-
     }
 
     .hero__text {
