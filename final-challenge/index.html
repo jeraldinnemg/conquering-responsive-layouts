@@ -4,94 +4,110 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conquering responsive layout</title>
+ 
+      <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&family=Oswald:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
     
-<link rel="stylesheet" href="index.css">
+    <title>Conquering Responsive Layout</title>
+      <!-- Script -->
+    <script src="index.js" defer></script>
+    
 </head>
 <body>
     <header>
-    <div class="container">
-        <div>
-            <a href="#">
-                <img src="/img/logo.svg" class="logo" alt="logo">
-            </a>
-        </div>
+        <div class="container row">
+            <button class="nav-toggle" aria-label="open-navigation" aria-controls="primary-navigation" >
+                <span class="src-only" aria-expanded="false">Menu</span>
+            </button>
 
-        <nav class="nav">
-            <ul class="nav__list">
-                <li class="nav__item"><a href=# class="nav__link">Home</a></li>
-                <li class="nav__item"><a href=# class="nav__link">About</a></li>
-                <li class="nav__item"><a href=# class="nav__link">Contact</a></li>
-                <li class="nav__item"><a href=# class="nav__link">Sign in</a></li>
-                <li class="nav__item" ><a href=# class="nav__link--button">Sign up</a></li>
-            </ul>
-        </nav>
-    </div>
+            <a href="#" class="logo">
+                <img src="/img/logo.svg" alt="logo">
+            </a>
+
+            <nav class="nav">
+                    <ul id="primary-navigation" data-visible="false" class="nav__list primary-navigation">
+                        <li class="nav__item"><a href="#" class="nav__link">Home</a></li>
+                        <li class="nav__item"><a href="#" class="nav__link">About</a></li>
+                        <li class="nav__item"><a href="#" class="nav__link">Contact</a></li>
+                        <li class="nav__item"><a href="#" class="nav__link">Sign in</a></li>
+                        <li class="nav__item"><a href="#" class="nav__link nav__link--button">Sign up</a></li>
+                    </ul>
+            </nav>
+        </div>
     </header>
+
     <section class="hero">
-    <div class="container row">
-        <section class="hero__section col">
-            <h1>Responsive layouts <span>don’t have to be a struggle</span></h1>
-        </section>
-        <section class=" container hero__section col">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a class="btn">I want to learn</a>  
-        </section>
-    </div>
+        <div class="container row">
+            <h1>Responsive layouts <span>don't have to be a struggle</span></h1>
+            <div>
+                <p>Lorem ipsum dolor sit amet, consectetur  adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                <a class="btn">I want to learn</a>
+            </div>
+        </div>
     </section>
     <main>
-        <section class="first__section" >
-            <div class="articles__section container row ">
-            <article class="col">
-                <h1>Mobile-first</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-                </p>
-            </article>
-            <article class="col">
-                <h1>Efficient</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-                </p>
-            </article>
-            <article class="col">
-                <h1>Done right</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-                </p>
-            </article>
-            </div>
+        <section class="primary-section">
+            <div class="container">
+                <div class="row">
+                    <article class="col">
+                        <h2>Mobile first</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                    </article>
+                    <article class="col">
+                        <h2>Efficient
+                        </h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                    </article>
+                    <article class="col">
+                        <h2>Done right
+                        </h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                    </article>
+                </div>
+        </div>
         </section>
-        <section class="second__section container row">
-            <article class="col">
-                <h1>It doesn’t have to be so hard</h1>
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-            <div>
-                <img id="image"src="/img/the-image.jpg" alt="">
+
+        <section class="secundary-section">
+            <div class="container row">
+                    <article class="col">
+                        <h2>It doesn’t have to be so hard
+                        </h2>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                        <div>
+                            <img id="image" src="/img/the-image.jpg" alt="image">
+                        </div>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                    </article>
+                    <aside class="container row col">
+                        <article class="col">
+                            <h3>Break it down
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        </article>
+                        <article class="col">
+                            <h3>Work your way up
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        </article>
+                        <article class="col">
+                            <h3>Break it down
+                            </h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        </article>
+                    </aside>
             </div>
 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-            </article>
-            <aside class="container col">
-            <article class="col">
-                <h2>Break it down</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </article>
-            <article class="col">
-                <h2>Work your way up</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </article>
-            <article class="col">
-                <h2>Break it down</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </article>
-            </aside>
         </section>
+
         <section class="third-section row">
             <h1>Just scratching the surface</h1>
         </section>
     </main>
+
     <footer>
         <div class="container row">
             <div class="col">
@@ -120,5 +136,8 @@
             </div>
         </div>
     </footer>
+    
+
+
 </body>
 </html>
